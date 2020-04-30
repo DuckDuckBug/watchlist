@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\data.db",
+            "dialect": "SQLite",
+            "name": "data"
+        },
+        {
+            "database": "${workspaceFolder}\\data.db",
+            "dialect": "SQLite",
+            "name": "data"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
